@@ -1,0 +1,26 @@
+.font {
+  width: fit-content;
+  font-size: 36px;
+  background-color: #ca4246;
+  background-image: linear-gradient(
+    to right,
+    rgb(250, 0, 0),
+    rgb(108, 99, 255)
+  );
+  background-size: 100%;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.font.small {
+  font-size: 30px;
+}
+
+.center {
+  margin: auto;
+}
+
+.big {
+  font-size: 45px;
+}

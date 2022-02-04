@@ -1,0 +1,18 @@
+.container {
+  width: 100vw;
+  height: 90vh;
+  display: grid;
+  padding: 30px 100px;
+  grid-template-columns: repeat(3, auto);
+}
+
+.action {
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
+
+.action > * {
+  margin: auto;
+  margin-top: -10px;
+}

@@ -1,0 +1,13 @@
+.btn {
+    width: 400px;
+    text-align: center;
+    color: white;
+    padding: 10px 30px;
+    background-color: #8A42FF;
+    border-radius: 5px;
+}
+
+.btn.small {
+    width: fit-content;
+    padding: 10px 20px;
+}

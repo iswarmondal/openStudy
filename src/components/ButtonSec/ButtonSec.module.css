@@ -1,0 +1,8 @@
+.btn {
+    width: 180px;
+    background-color: #C6FFC8;
+    padding: 10px 30px;
+    color: purple;
+    display: flex;
+    justify-content: space-between;
+}

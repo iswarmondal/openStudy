@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinus {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 100px;
+    padding: 170px 30px;
+    background-color: rgba(196, 196, 196, 0.16);
+    border: 0.1px solid grey;
+    border-radius: 5px;
+}
+
+.joinElement, .login {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

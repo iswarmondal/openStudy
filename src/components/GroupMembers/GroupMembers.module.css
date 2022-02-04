@@ -1,0 +1,10 @@
+.container {
+    width: fit-content;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}

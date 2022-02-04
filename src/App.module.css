@@ -1,0 +1,9 @@
+.gradient-background {
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(21, 0, 107),
+    rgb(1, 0, 6)
+  );
+}
